@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(102, 0, 255);
+}
+
+#Score_Label{
+font-size: medium;
+margin: 20px;
+}
+
+#Timer_Label{
+float: right;
+}
